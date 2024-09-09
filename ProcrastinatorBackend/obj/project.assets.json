@@ -4566,19 +4566,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cstock\\.nuget\\packages\\": {}
+    "C:\\Users\\kyram\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cstock\\source\\repos\\FinalProjectbackend\\ProcrastinatorBackEnd-\\ProcrastinatorBackend\\ProcrastinatorBackend.csproj",
+      "projectUniqueName": "C:\\Users\\kyram\\OneDrive\\Desktop\\ProcrastinatorBackEnd-\\ProcrastinatorBackend\\ProcrastinatorBackend.csproj",
       "projectName": "ProcrastinatorBackend",
-      "projectPath": "C:\\Users\\cstock\\source\\repos\\FinalProjectbackend\\ProcrastinatorBackEnd-\\ProcrastinatorBackend\\ProcrastinatorBackend.csproj",
-      "packagesPath": "C:\\Users\\cstock\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cstock\\source\\repos\\FinalProjectbackend\\ProcrastinatorBackEnd-\\ProcrastinatorBackend\\obj\\",
+      "projectPath": "C:\\Users\\kyram\\OneDrive\\Desktop\\ProcrastinatorBackEnd-\\ProcrastinatorBackend\\ProcrastinatorBackend.csproj",
+      "packagesPath": "C:\\Users\\kyram\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kyram\\OneDrive\\Desktop\\ProcrastinatorBackEnd-\\ProcrastinatorBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cstock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kyram\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4648,7 +4648,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
